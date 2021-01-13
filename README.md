@@ -12,7 +12,7 @@ _Specifically_, here are a list of the things I hope to accomplish in DH140
 3. Create publication ready-scholerly materials for my own research 
 
 In order to achieve these goals, I hope to use data from [Airbnb](http://insideairbnb.com/get-the-data.html)
- to guide my research inquiry about the affects of Airbnb on neighborhoods.
+ to guide my research inquiry to learn about the affects of Airbnb on neighborhoods and refine my coding skills.
 ### Possible research inquiry questions
 My interest in Airbnb is due to my curiosity to understand how the emergence of "Gig Economies" affect local markets.
 Some questions I hope to find answers to are:
