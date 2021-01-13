@@ -8,7 +8,7 @@ I eagerly await the challanges and growth that lay ahead.
 >how do you know how tall you are?
 ___ 
 ### What is DH140?
-In this class, students like myself will be be introduced to the groundworks of coding and data science for __humanist__. We will tackle the basics of Python and learn basic data science tools, eventually working our way up to geospatial analysis and GIS. In the end, the skills gained from this course will allow us to critically and accuratly analyse humanistic data and help forward our endeavours in humanistic research!
+In this class, students like myself will be be introduced to the groundworks of coding and data science for __humanist__. We will tackle the basics of Python and learn basic data science tools, eventually working our way up to geospatial analysis and GIS. In the end, the skills gained from this course will allow us to critically and accuratly analyze humanistic data and help forward our endeavours in humanistic research!
 ___
 ### Goals
 _Specifically_, here are a list of the things I hope to accomplish in DH140
