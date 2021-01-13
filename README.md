@@ -18,5 +18,6 @@ My interest in Airbnb is due to my curiosity to understand how the emergence of 
 Some questions I hope to find answers to are:
 * How does Airbnb affect local housing markets?
 * How does Airbnb affect students in Westwood?
-* Does Airbnb affect long term or short term availability?
+* Does Airbnb affect long term or short term housing availability?
 * How does Airbnb affect other markets, such as the resturant industry or entertainment? 
+* Does Airbnb lead to a rise in gentrification?
