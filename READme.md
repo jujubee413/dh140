@@ -1,11 +1,15 @@
 # __*Welcome to Juliette Olivers Data Space*__ :smile: !
-I am excited about the opportunity to broaden my skillset throughout this next quarter.
-Although this class is quite different from my typical schedule as a _Russian Studies Major_ , 
-I am excited for the challanges and growth that lay ahead.
-  As was well said by T.S Elliot:
+*__Hello Everyone!__* Welcome to my space where I will be tackling DH140 this quarter at UCLA. 
+I am extremely excited about this opportunity to broaden my skillset and learn skills that will be invaluable in my coming years in academia.
+Although this class is quite different from my typical classes as a _Russian Studies Major_ , 
+I eagerly await the challanges and growth that lay ahead.
+  As was once well said by T.S Elliot:
 >If you're not in over your head,
 >how do you know how tall you are?
 ___ 
+### What is DH140?
+In this class, students like myself will be be introduced to the groundworks of coding and data science for __humanist__. We will tackle the basics of Python and learn basic data science tools, eventually working our way up to geospatial analysis and GIS. In the end, the skills gained from this course will allow us to critically and accuratly analyse humanistic data and help forward our endeavours in humanistic research!
+___
 ### Goals
 _Specifically_, here are a list of the things I hope to accomplish in DH140
 1. Learn how to use Python 
