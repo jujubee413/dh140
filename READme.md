@@ -29,4 +29,9 @@ ___
 
 ### _**Who I am and what I hope to do after DH140?**_
 So I am official a *Russian Studies Major* and a *DH minor*, and I am persuing DH in order to learn valuable knowledge that will assist me in my Russian Studies. Specifically, I have a passion for Central Asia and Kazakhstan, and I hope that after this class is done that I am able to use my skills to show my findings about the different ethnic groups in Kazakhstan! :kazakhstan:
+Other projects I hope to persue after or during DH140 are
+* Mapping and understanding the change in ethnic group populations after the reign of Stalin
+* Маp and understand traditional migratory patterns of nomadic Kazakh tribes in the Altai mountains
+* Understand the detrimental impact of Nuclear testing on Kazakh populations
+* Understand the shifting demogaphic change in citizens who idetify with Kazakh as their first language
 
