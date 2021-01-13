@@ -25,5 +25,8 @@ Some questions I hope to find answers to are:
 * How does Airbnb affect other markets, such as the resturant industry or entertainment? 
 * Does Airbnb lead to a rise in gentrification?
 
+___
+
 ### _**Who I am and what I hope to do after DH140?**_
+So I am official a *Russian Studies Major* and a *DH minor*, and I am persuing DH in order to learn valuable knowledge that will assist me in my Russian Studies. Specifically, I have a passion for Central Asia and Kazakhstan, and I hope that after this class is done that I am able to use my skills to show my findings about the different ethnic groups in Kazakhstan! :kazakhstan:
 
