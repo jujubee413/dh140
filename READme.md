@@ -38,4 +38,7 @@ Other projects I hope to persue after or during DH140 are
 * Маp and understand traditional migratory patterns of nomadic Kazakh tribes in the Altai mountains
 * Understand the detrimental impact of Nuclear testing on Kazakh populations
 * Understand the shifting demogaphic change in citizens who idetify with Kazakh as their first language
+___
+
+Thank you for your interst in my work, and I look forward to a viderous and enriching quarter of coding! :smiley:
 
