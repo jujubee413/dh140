@@ -24,3 +24,6 @@ Some questions I hope to find answers to are:
 * Does Airbnb affect long term or short term housing availability?
 * How does Airbnb affect other markets, such as the resturant industry or entertainment? 
 * Does Airbnb lead to a rise in gentrification?
+
+###_**Who I am and what I hope to do after DH140?**_
+
